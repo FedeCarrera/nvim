@@ -13,6 +13,8 @@ return {
 		"python",
 		"json",
 		"markdown",
+    "typescript",
+    "javascript"
 		},
 	highlight = {
 		enable = true,

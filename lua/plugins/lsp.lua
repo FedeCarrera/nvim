@@ -32,5 +32,7 @@ return {
     }
   }
 }
+-- Typscript 
+    require'lspconfig'.tsserver.setup{}
   end
 }
